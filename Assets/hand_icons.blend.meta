@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: be5f6599c7877914b8575d853428f8e0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature.001
+    100004: Armature.002
+    100006: Armature.003
+    100008: Bone
+    100010: Bone 1
+    100012: Bone 2
+    100014: Bone 3
+    100016: Bone.001
+    100018: Bone.001 1
+    100020: Bone.001 2
+    100022: Bone.001 3
+    100024: Bone.002
+    100026: Bone.002 1
+    100028: Bone.002 2
+    100030: Bone.002 3
+    100032: Bone.003
+    100034: Bone.003 1
+    100036: Bone.003 2
+    100038: Bone.003 3
+    100040: Bone.004
+    100042: Bone.004 1
+    100044: Bone.004 2
+    100046: Bone.004 3
+    100048: Bone.004_end
+    100050: Bone.004_end 1
+    100052: Bone.004_end 2
+    100054: Bone.004_end 3
+    100056: Bone.005
+    100058: Bone.005 1
+    100060: Bone.005 2
+    100062: Bone.005 3
+    100064: Bone.006
+    100066: Bone.006 1
+    100068: Bone.006 2
+    100070: Bone.006 3
+    100072: Bone.007
+    100074: Bone.007 1
+    100076: Bone.007 2
+    100078: Bone.007 3
+    100080: Bone.007_end
+    100082: Bone.007_end 1
+    100084: Bone.007_end 2
+    100086: Bone.007_end 3
+    100088: Bone.008
+    100090: Bone.008 1
+    100092: Bone.008 2
+    100094: Bone.008 3
+    100096: Bone.009
+    100098: Bone.009 1
+    100100: Bone.009 2
+    100102: Bone.009 3
+    100104: Bone.010
+    100106: Bone.010 1
+    100108: Bone.010 2
+    100110: Bone.010 3
+    100112: Bone.010_end
+    100114: Bone.010_end 1
+    100116: Bone.010_end 2
+    100118: Bone.010_end 3
+    100120: Bone.011
+    100122: Bone.011 1
+    100124: Bone.011 2
+    100126: Bone.011 3
+    100128: Bone.012
+    100130: Bone.012 1
+    100132: Bone.012 2
+    100134: Bone.012 3
+    100136: Bone.013
+    100138: Bone.013 1
+    100140: Bone.013 2
+    100142: Bone.013 3
+    100144: Bone.013_end
+    100146: Bone.013_end 1
+    100148: Bone.013_end 2
+    100150: Bone.013_end 3
+    100152: Bone.014
+    100154: Bone.014 1
+    100156: Bone.014 2
+    100158: Bone.014 3
+    100160: Bone.015
+    100162: Bone.015 1
+    100164: Bone.015 2
+    100166: Bone.015 3
+    100168: Bone.016
+    100170: Bone.016 1
+    100172: Bone.016 2
+    100174: Bone.016 3
+    100176: Bone.016_end
+    100178: Bone.016_end 1
+    100180: Bone.016_end 2
+    100182: Bone.016_end 3
+    100184: Cube
+    100186: Cube.001
+    100188: Cube.002
+    100190: Cube.003
+    100192: Cube.004
+    100194: Cube.005
+    100196: Cube.006
+    100198: Cube.007
+    100200: //RootNode
+    100202: Cube.008
+    100204: Cube.009
+    100206: Cube.011
+    100208: Cube.012
+    100210: Cube.013
+    100212: Circle
+    100214: Cube.010
+    100216: Cube.014
+    100218: Cube.015
+    100220: Cube.016
+    100222: Cube.017
+    100224: Cube.018
+    100226: Cube.019
+    100228: Cube.020
+    100230: Cube.021
+    100232: Cube.022
+    100234: Cube.024
+    100236: Cube.025
+    100238: Cylinder
+    100240: Cylinder.001
+    100242: Cylinder.002
+    100244: Cylinder.003
+    100246: Cylinder.004
+    100248: Cylinder.005
+    100250: Cube.023
+    100252: Armature.004
+    100254: Armature.005
+    100256: Bone 4
+    100258: Bone 5
+    100260: Bone.001 4
+    100262: Bone.001 5
+    100264: Bone.002 4
+    100266: Bone.002 5
+    100268: Bone.003 4
+    100270: Bone.003 5
+    100272: Bone.004 4
+    100274: Bone.004 5
+    100276: Bone.004_end 4
+    100278: Bone.004_end 5
+    100280: Bone.005 4
+    100282: Bone.005 5
+    100284: Bone.006 4
+    100286: Bone.006 5
+    100288: Bone.007 4
+    100290: Bone.007 5
+    100292: Bone.007_end 4
+    100294: Bone.007_end 5
+    100296: Bone.008 4
+    100298: Bone.008 5
+    100300: Bone.009 4
+    100302: Bone.009 5
+    100304: Bone.010 4
+    100306: Bone.010 5
+    100308: Bone.010_end 4
+    100310: Bone.010_end 5
+    100312: Bone.011 4
+    100314: Bone.011 5
+    100316: Bone.012 4
+    100318: Bone.012 5
+    100320: Bone.013 4
+    100322: Bone.013 5
+    100324: Bone.013_end 4
+    100326: Bone.013_end 5
+    100328: Bone.014 4
+    100330: Bone.014 5
+    100332: Bone.015 4
+    100334: Bone.015 5
+    100336: Bone.016 4
+    100338: Bone.016 5
+    100340: Bone.016_end 4
+    100342: Bone.016_end 5
+    100344: Cube.026
+    100346: Cube.027
+    100348: Cube.028
+    100350: Cube.029
+    100352: Cube.030
+    100354: Cube.031
+    100356: Cube.032
+    100358: Cube.033
+    100360: Cube.034
+    100362: Cylinder.006
+    100364: Empty
+    100366: Circle.001
+    100368: Circle.002
+    100370: Cube.035
+    100372: Cube.036
+    100374: Cube.037
+    100376: Cube.038
+    100378: Cylinder.007
+    100380: Cylinder.008
+    100382: Cylinder.009
+    100384: Cylinder.010
+    100386: Cylinder.011
+    400000: Armature
+    400002: Armature.001
+    400004: Armature.002
+    400006: Armature.003
+    400008: Bone
+    400010: Bone 1
+    400012: Bone 2
+    400014: Bone 3
+    400016: Bone.001
+    400018: Bone.001 1
+    400020: Bone.001 2
+    400022: Bone.001 3
+    400024: Bone.002
+    400026: Bone.002 1
+    400028: Bone.002 2
+    400030: Bone.002 3
+    400032: Bone.003
+    400034: Bone.003 1
+    400036: Bone.003 2
+    400038: Bone.003 3
+    400040: Bone.004
+    400042: Bone.004 1
+    400044: Bone.004 2
+    400046: Bone.004 3
+    400048: Bone.004_end
+    400050: Bone.004_end 1
+    400052: Bone.004_end 2
+    400054: Bone.004_end 3
+    400056: Bone.005
+    400058: Bone.005 1
+    400060: Bone.005 2
+    400062: Bone.005 3
+    400064: Bone.006
+    400066: Bone.006 1
+    400068: Bone.006 2
+    400070: Bone.006 3
+    400072: Bone.007
+    400074: Bone.007 1
+    400076: Bone.007 2
+    400078: Bone.007 3
+    400080: Bone.007_end
+    400082: Bone.007_end 1
+    400084: Bone.007_end 2
+    400086: Bone.007_end 3
+    400088: Bone.008
+    400090: Bone.008 1
+    400092: Bone.008 2
+    400094: Bone.008 3
+    400096: Bone.009
+    400098: Bone.009 1
+    400100: Bone.009 2
+    400102: Bone.009 3
+    400104: Bone.010
+    400106: Bone.010 1
+    400108: Bone.010 2
+    400110: Bone.010 3
+    400112: Bone.010_end
+    400114: Bone.010_end 1
+    400116: Bone.010_end 2
+    400118: Bone.010_end 3
+    400120: Bone.011
+    400122: Bone.011 1
+    400124: Bone.011 2
+    400126: Bone.011 3
+    400128: Bone.012
+    400130: Bone.012 1
+    400132: Bone.012 2
+    400134: Bone.012 3
+    400136: Bone.013
+    400138: Bone.013 1
+    400140: Bone.013 2
+    400142: Bone.013 3
+    400144: Bone.013_end
+    400146: Bone.013_end 1
+    400148: Bone.013_end 2
+    400150: Bone.013_end 3
+    400152: Bone.014
+    400154: Bone.014 1
+    400156: Bone.014 2
+    400158: Bone.014 3
+    400160: Bone.015
+    400162: Bone.015 1
+    400164: Bone.015 2
+    400166: Bone.015 3
+    400168: Bone.016
+    400170: Bone.016 1
+    400172: Bone.016 2
+    400174: Bone.016 3
+    400176: Bone.016_end
+    400178: Bone.016_end 1
+    400180: Bone.016_end 2
+    400182: Bone.016_end 3
+    400184: Cube
+    400186: Cube.001
+    400188: Cube.002
+    400190: Cube.003
+    400192: Cube.004
+    400194: Cube.005
+    400196: Cube.006
+    400198: Cube.007
+    400200: //RootNode
+    400202: Cube.008
+    400204: Cube.009
+    400206: Cube.011
+    400208: Cube.012
+    400210: Cube.013
+    400212: Circle
+    400214: Cube.010
+    400216: Cube.014
+    400218: Cube.015
+    400220: Cube.016
+    400222: Cube.017
+    400224: Cube.018
+    400226: Cube.019
+    400228: Cube.020
+    400230: Cube.021
+    400232: Cube.022
+    400234: Cube.024
+    400236: Cube.025
+    400238: Cylinder
+    400240: Cylinder.001
+    400242: Cylinder.002
+    400244: Cylinder.003
+    400246: Cylinder.004
+    400248: Cylinder.005
+    400250: Cube.023
+    400252: Armature.004
+    400254: Armature.005
+    400256: Bone 4
+    400258: Bone 5
+    400260: Bone.001 4
+    400262: Bone.001 5
+    400264: Bone.002 4
+    400266: Bone.002 5
+    400268: Bone.003 4
+    400270: Bone.003 5
+    400272: Bone.004 4
+    400274: Bone.004 5
+    400276: Bone.004_end 4
+    400278: Bone.004_end 5
+    400280: Bone.005 4
+    400282: Bone.005 5
+    400284: Bone.006 4
+    400286: Bone.006 5
+    400288: Bone.007 4
+    400290: Bone.007 5
+    400292: Bone.007_end 4
+    400294: Bone.007_end 5
+    400296: Bone.008 4
+    400298: Bone.008 5
+    400300: Bone.009 4
+    400302: Bone.009 5
+    400304: Bone.010 4
+    400306: Bone.010 5
+    400308: Bone.010_end 4
+    400310: Bone.010_end 5
+    400312: Bone.011 4
+    400314: Bone.011 5
+    400316: Bone.012 4
+    400318: Bone.012 5
+    400320: Bone.013 4
+    400322: Bone.013 5
+    400324: Bone.013_end 4
+    400326: Bone.013_end 5
+    400328: Bone.014 4
+    400330: Bone.014 5
+    400332: Bone.015 4
+    400334: Bone.015 5
+    400336: Bone.016 4
+    400338: Bone.016 5
+    400340: Bone.016_end 4
+    400342: Bone.016_end 5
+    400344: Cube.026
+    400346: Cube.027
+    400348: Cube.028
+    400350: Cube.029
+    400352: Cube.030
+    400354: Cube.031
+    400356: Cube.032
+    400358: Cube.033
+    400360: Cube.034
+    400362: Cylinder.006
+    400364: Empty
+    400366: Circle.001
+    400368: Circle.002
+    400370: Cube.035
+    400372: Cube.036
+    400374: Cube.037
+    400376: Cube.038
+    400378: Cylinder.007
+    400380: Cylinder.008
+    400382: Cylinder.009
+    400384: Cylinder.010
+    400386: Cylinder.011
+    2100000: Material
+    2100002: No Name
+    2100004: Material.002
+    2100006: Material.003
+    2100008: Material.004
+    2100010: Material.005
+    2100012: Material.006
+    2300000: Cube.001
+    2300002: Cube.002
+    2300004: Cube.004
+    2300006: Cube.007
+    2300008: Cube.008
+    2300010: Cube.009
+    2300012: Cube.011
+    2300014: Cube.012
+    2300016: Cube.013
+    2300018: Circle
+    2300020: Cube.010
+    2300022: Cube.014
+    2300024: Cube.015
+    2300026: Cube.016
+    2300028: Cube.017
+    2300030: Cube.018
+    2300032: Cube.019
+    2300034: Cube.020
+    2300036: Cube.021
+    2300038: Cube.022
+    2300040: Cube.024
+    2300042: Cube.025
+    2300044: Cylinder
+    2300046: Cylinder.001
+    2300048: Cylinder.002
+    2300050: Cylinder.003
+    2300052: Cylinder.004
+    2300054: Cylinder.005
+    2300056: Cube.023
+    2300058: Cube.028
+    2300060: Cube.029
+    2300062: Cube.030
+    2300064: Cube.031
+    2300066: Cube.032
+    2300068: Cube.033
+    2300070: Cube.034
+    2300072: Cylinder.006
+    2300074: Circle.001
+    2300076: Circle.002
+    2300078: Cube.035
+    2300080: Cube.036
+    2300082: Cube.037
+    2300084: Cube.038
+    2300086: Cylinder.007
+    2300088: Cylinder.008
+    2300090: Cylinder.009
+    2300092: Cylinder.010
+    2300094: Cylinder.011
+    3300000: Cube.001
+    3300002: Cube.002
+    3300004: Cube.004
+    3300006: Cube.007
+    3300008: Cube.008
+    3300010: Cube.009
+    3300012: Cube.011
+    3300014: Cube.012
+    3300016: Cube.013
+    3300018: Circle
+    3300020: Cube.010
+    3300022: Cube.014
+    3300024: Cube.015
+    3300026: Cube.016
+    3300028: Cube.017
+    3300030: Cube.018
+    3300032: Cube.019
+    3300034: Cube.020
+    3300036: Cube.021
+    3300038: Cube.022
+    3300040: Cube.024
+    3300042: Cube.025
+    3300044: Cylinder
+    3300046: Cylinder.001
+    3300048: Cylinder.002
+    3300050: Cylinder.003
+    3300052: Cylinder.004
+    3300054: Cylinder.005
+    3300056: Cube.023
+    3300058: Cube.028
+    3300060: Cube.029
+    3300062: Cube.030
+    3300064: Cube.031
+    3300066: Cube.032
+    3300068: Cube.033
+    3300070: Cube.034
+    3300072: Cylinder.006
+    3300074: Circle.001
+    3300076: Circle.002
+    3300078: Cube.035
+    3300080: Cube.036
+    3300082: Cube.037
+    3300084: Cube.038
+    3300086: Cylinder.007
+    3300088: Cylinder.008
+    3300090: Cylinder.009
+    3300092: Cylinder.010
+    3300094: Cylinder.011
+    4300000: Cube
+    4300002: Cube.001
+    4300004: Cube.003
+    4300006: Cube.002
+    4300008: Cube.005
+    4300010: Cube.004
+    4300012: Cube.007
+    4300014: Cube.006
+    4300016: Cube.008
+    4300018: Cube.009
+    4300020: Cube.011
+    4300022: Cube.013
+    4300024: Cube.012
+    4300026: Cube.010
+    4300028: Cube.014
+    4300030: Cylinder
+    4300032: Cylinder.001
+    4300034: Cylinder.003
+    4300036: Cylinder.004
+    4300038: Cylinder.002
+    4300040: Cube.015
+    4300042: Circle
+    4300044: Cylinder.005
+    4300046: Cube.016
+    4300048: Cube.017
+    4300050: Cube.019
+    4300052: Cube.018
+    4300054: Cube.020
+    4300056: Cube.021
+    4300058: Cube.022
+    4300060: Cube.025
+    4300062: Cube.024
+    4300064: Cube.023
+    4300066: Cylinder.006
+    4300068: Cube.026
+    4300070: Cube.027
+    4300072: Cube.028
+    4300074: Cube.029
+    4300076: Cube.030
+    4300078: Cube.031
+    4300080: Cube.032
+    4300082: Cube.033
+    4300084: Cube.034
+    4300086: Cylinder.007
+    4300088: Cylinder.008
+    4300090: Cylinder.010
+    4300092: Cylinder.009
+    4300094: Cylinder.011
+    4300096: Cube.035
+    4300098: Cube.036
+    4300100: Cube.037
+    4300102: Circle.002
+    4300104: Circle.001
+    4300106: Cube.038
+    9500000: //RootNode
+    13700000: Cube
+    13700002: Cube.003
+    13700004: Cube.005
+    13700006: Cube.006
+    13700008: Cube.026
+    13700010: Cube.027
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
